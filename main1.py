@@ -52,4 +52,4 @@ def page_not_found(error):
     return '<h1 style="color:red">такой страницы не существует</h1>'
 
 
-app.run(debug=True)
+#app.run(debug=True)
